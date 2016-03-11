@@ -128,7 +128,3 @@ Highlight the nearest corresponding time option as a value is typed into the for
 - **useSelect**
 Convert the input to an HTML `<SELECT>` control. This is ideal for small screen devices, or if you want to prevent the user from entering arbitrary values. This option is not compatible with the following options: ```appendTo```, ```closeOnWindowScroll```, ```disableTouchKeyboard```, ```forceRoundTime```, ```scrollDefault```, ```selectOnBlur```, ```typeAheadHighlight```.
 *default: false*
-
-Contributions
-===============================
-There is still plenty of features missing compared to the original date time picker, hence contributions would be highly appreciated.
