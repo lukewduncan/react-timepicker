@@ -1,7 +1,7 @@
 react-timepicker
 ===============================
 
-This project is a port of https://github.com/jonthornton/jquery-timepicker for React.js
+This project is a port of https://github.com/jonthornton/jquery-timepicker for React.js. This is still a WIP.
 
 Usage
 ===============================
