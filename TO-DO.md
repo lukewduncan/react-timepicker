@@ -1,0 +1,5 @@
+- Add moment.js to the project dependencies
+- Write tests using Jest or Mocha
+- build a doc with examples
+- support locales
+- Fix 24 hour time showing
